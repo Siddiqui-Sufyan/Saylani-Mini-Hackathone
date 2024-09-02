@@ -46,7 +46,7 @@
 
 }
 
-.here-section {
+.hero-section {
     display: flex;
     gap: 5rem;
     margin: 2rem 0rem;
@@ -275,4 +275,24 @@
 .our-working-procedure-carts-2-sub img {
     width: 4vw;
     height: auto;
+}
+
+
+.contact-us-section {
+    display: flex;
+    align-items: center;
+    margin: 2rem 0rem;
+}
+
+.contact-us-section span {
+    background-color: #B9FF66;
+    padding: 0.5rem 1.5rem;
+    border-radius: 10px;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.contact-us-section p {
+    max-width: 50vw;
+    margin-left: 3rem;
 }
